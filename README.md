@@ -1,6 +1,8 @@
 # Movie-Recommendation-using-Cosine-Similarity
 This repository contains code for a movie recommendation system that utilizes collaborative filtering techniques to suggest movies based on user preferences and behavior.
 
+Dataset Link :- https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata <br>
+
 **Table of Contents**<br>
 Overview<br>
 Libraries Used<br>
