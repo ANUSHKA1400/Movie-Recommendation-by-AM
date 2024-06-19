@@ -18,9 +18,9 @@ This project aims to provide personalized movie recommendations by analyzing use
 
 **Python 3.10**<br>
 **Pandas**: Used for data manipulation and preprocessing.<br>
-**nltk**:<br>
-**cosine similarity**:<br>
-**streamlit**:<br>
+**nltk**: Natural Language Toolkit for text processing tasks.<br>
+**Cosine similarity**: Metric used to measure similarity between movies.<br>
+**Streamlit**: Streamlit is a framework used for building web applications with Python. <br>
 
 **Procedure**<br>
 
